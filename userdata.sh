@@ -5,7 +5,7 @@ apt-get install python3 -y
 cd /home/ubuntu/
 TOKEN="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"
 git clone https://$TOKEN@https://github.com/omertortumlu/Capstone_project
-cd /home/ubuntu/<YOUR PRIVATE REPO NAME>
+cd /home/ubuntu/Capstone_project
 apt install python3-pip -y
 apt-get install python3.7-dev default-libmysqlclient-dev -y
 pip3 install -r requirements.txt
